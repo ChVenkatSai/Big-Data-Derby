@@ -1,8 +1,8 @@
-# Big-Data-Derby
+## Big Data Derby 2022 Kaggle Competition 
 This Kaggle project analyzes Big Data Derby's dataset, provided by NYRA and NYTHA, to identify factors impacting racehorse performance and injury risk. Through data mining, machine learning, and statistical modeling, we uncover insights into crucial racehorse outcomes. 
-## Big Data Derby 2022 Kaggle Competition - README
 
-This README file provides an overview of the Big Data Derby 2022 Kaggle competition project undertaken by Dimple Naresh Nachnani, Sree Sai Ankit Rao Pittala, and Venkata Sai Chelagamsetty from Purdue University. 
+
+
 
 ### Abstract
 The project focuses on analyzing horse racing data to generate actionable insights and predictions using data mining and machine learning techniques. The goal is to improve horse health, racing strategies, and overall performance. The dataset provided by NYRA and NYTHA is utilized to explore horse-tracking data and identify patterns, factors affecting performance, and potential strategies for race optimization.
